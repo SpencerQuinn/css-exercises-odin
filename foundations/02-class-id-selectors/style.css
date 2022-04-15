@@ -1,0 +1,22 @@
+.odd-num {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif
+}
+
+.font-sizer{
+    font-size: 24px;
+
+}
+
+#num-two{
+    font-size: 36px;
+    color: blue;
+}
+
+
+#num-four{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+
+}
